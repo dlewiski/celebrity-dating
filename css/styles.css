@@ -1,3 +1,28 @@
 h3 {
   text-align: center;
 }
+
+button {
+  background-color: #E1E1E1;
+}
+
+#result1 {
+  display: none;
+}
+
+#result2 {
+  display: none;
+}
+
+#result3 {
+  display: none;
+}
+
+#result4 {
+  display: none;
+}
+
+img {
+  max-width: 500px;
+  max-height: 500px;
+}
